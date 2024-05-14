@@ -5,8 +5,10 @@ Since 2022,the national robotics and AI olympics have been taking place in Camer
 In this file, I will describe :
 1- how the competition unfolded;
 2- the organization of this repository.
-Let's go...😉.
 
+Before I start, I'd like to thank my partners Gabin NDJOUTSE and Kaïs MOMO. The success would'nt have been possible without their motivation... Of course we (FABULOUS TRIBUS Team) won😂⭐.
+
+Now, let's go...😉.
 
 **1- How the competiton runs ?**
 The competition pits differents teams coming from the country's leading schools and professionals (companies). Each team is made up of two or three members. 
@@ -36,19 +38,19 @@ The aim is to get the maximum number of points by adding the results obtained fo
    - file : challenges_description.pdf --> Gives detailed information (rules, number of points, etc) about the different expectations for each challenge.
    - folder : MAZE
      
-               * file : control_circuit.png : Image showing the materials configuration for the maze challenge.             
+               * file : maze.png : Image showing the materials configuration for the maze challenge.             
                * file : maze_esp_wall_follower_vf.INO --> code running on the microcontroller (ESP32 in our case).
                * file : result.MP4 --> an excerpt from the video showing how the robot works in the MAZE.
      
    - folder : LINE_FOLLOWER
      
-               * file : control_circuit.png : Image showing the materials configuration for the line follower challenge.             
+               * file : line_follower.png : Image showing the materials configuration for the line follower challenge.             
                * file : suiveur_ligne_esp_vf.INO --> code running on the microcontroller (ESP32 in our case).
                * file : result.MP4 --> an excerpt from the video showing how the robot works in the MAZE.
 
    - folder : SUMO
      
-               * file : control_circuit.png : Image showing the materials configuration for the SUMO challenge.             
+               * file : SUMO.png : Image showing the materials configuration for the SUMO challenge.             
                * file : SUMO_vf.INO --> code running on the microcontroller (ESP32 in our case).
 
   
