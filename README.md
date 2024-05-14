@@ -29,21 +29,27 @@ The aim is to get the maximum number of points by adding the results obtained fo
 
 
 **2- How is organized this repository**
+  
   Repository : Robotic
-                  - file : README.md --> the present file
-                  - file : challenges_description.pdf --> Gives detailed information (rules, number of points, etc) about the different expectations for each challenge.
-                  - folder : MAZE
-                              * file : control_circuit.png : Image showing the materials configuration for the maze challenge.             
-                              * file : maze_esp_wall_follower_vf.INO --> code running on the microcontroller (ESP32 in our case).
-                              * file : result.MP4 --> an excerpt from the video showing how the robot works in the MAZE.
-                  - folder : LINE_FOLLOWER
-                              * file : control_circuit.png : Image showing the materials configuration for the line follower challenge.             
-                              * file : suiveur_ligne_esp_vf.INO --> code running on the microcontroller (ESP32 in our case).
-                              * file : result.MP4 --> an excerpt from the video showing how the robot works in the MAZE.
+  
+   - file : README.md --> the present file
+   - file : challenges_description.pdf --> Gives detailed information (rules, number of points, etc) about the different expectations for each challenge.
+   - folder : MAZE
+     
+               * file : control_circuit.png : Image showing the materials configuration for the maze challenge.             
+               * file : maze_esp_wall_follower_vf.INO --> code running on the microcontroller (ESP32 in our case).
+               * file : result.MP4 --> an excerpt from the video showing how the robot works in the MAZE.
+     
+   - folder : LINE_FOLLOWER
+     
+               * file : control_circuit.png : Image showing the materials configuration for the line follower challenge.             
+               * file : suiveur_ligne_esp_vf.INO --> code running on the microcontroller (ESP32 in our case).
+               * file : result.MP4 --> an excerpt from the video showing how the robot works in the MAZE.
 
-                  - folder : SUMO
-                              * file : control_circuit.png : Image showing the materials configuration for the SUMO challenge.             
-                              * file : SUMO_vf.INO --> code running on the microcontroller (ESP32 in our case).
+   - folder : SUMO
+     
+               * file : control_circuit.png : Image showing the materials configuration for the SUMO challenge.             
+               * file : SUMO_vf.INO --> code running on the microcontroller (ESP32 in our case).
 
   
   
